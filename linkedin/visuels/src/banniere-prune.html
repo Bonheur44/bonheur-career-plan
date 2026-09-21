@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Bannière LinkedIn - version prune</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@600&family=Public+Sans:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  /* Charte v2.2 : encre prune, accent rose 400 sur fond sombre, Newsreader pour
+     l'affirmation, Public Sans pour la structure. Aucun tiret long. */
+  html, body { margin: 0; padding: 0; }
+  body {
+    width: 1584px; height: 396px; overflow: hidden;
+    background: #2F0431; color: #FFFFFF; position: relative;
+    font-family: "Public Sans", Arial, sans-serif;
+  }
+  .glow {
+    position: absolute; inset: 0;
+    background: radial-gradient(circle at 50% 130%, rgba(247,138,253,0.20), transparent 60%);
+  }
+  .losange-bg {
+    position: absolute; right: -60px; top: -70px; width: 560px; height: 350px;
+    color: rgba(247,138,253,0.09);
+  }
+  /* Zone de sécurité : la photo de profil (cercle) recouvre le bas gauche. */
+  .contenu {
+    position: absolute; left: 470px; top: 88px; right: 96px;
+  }
+  .overline {
+    font-weight: 600; font-size: 19px; letter-spacing: 0.08em; text-transform: uppercase;
+    color: #F78AFD; margin: 0;
+  }
+  .overline .chev { margin-right: 10px; }
+  h1 {
+    font-family: "Newsreader", Georgia, serif; font-weight: 600;
+    font-size: 52px; line-height: 1.12; margin: 18px 0 0; max-width: 1020px;
+    letter-spacing: -0.01em;
+  }
+  .filet { width: 80px; height: 4px; background: #F78AFD; margin: 24px 0 18px; border-radius: 2px; }
+  .preuve {
+    font-weight: 600; font-size: 21px; color: #E5DAE5; margin: 0;
+  }
+  .preuve b { color: #FFFFFF; font-weight: 700; }
+  .pied {
+    position: absolute; right: 96px; top: 80px;
+    display: flex; align-items: center; gap: 22px;
+  }
+  .pied .contact { font-weight: 600; font-size: 20px; color: #FFFFFF; }
+  .pied .sep { width: 1px; height: 26px; background: rgba(255,255,255,0.28); }
+  /* Wordmark danoz sans sa baseline : le PNG est rogné sous le mot. */
+  .wordmark { height: 30px; overflow: hidden; opacity: 0.9; }
+  .wordmark img { height: 43.5px; display: block; }
+</style>
+</head>
+<body>
+  <div class="glow"></div>
+  <svg class="losange-bg" viewBox="0 0 48 30" fill="currentColor" aria-hidden="true">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 0 47.5 15 24 30 0.5 15 24 0Zm0 8.4L11.5 15 24 21.6 36.5 15 24 8.4Z"/>
+  </svg>
+
+  <div class="contenu">
+    <p class="overline"><span class="chev">&gt;</span>Développeur web &amp; mobile · Cotonou, Bénin</p>
+    <h1>Applications web et mobiles, plateformes de données, sites institutionnels.</h1>
+    <div class="filet"></div>
+    <p class="preuve"><b>4 ans</b> · <b>20+ projets</b> livrés au Bénin et en France · Next.js · Laravel · Flutter · WordPress</p>
+  </div>
+
+  <div class="pied">
+    <div class="wordmark"><img src="../../../site/public/logos/danoz-rose.png" alt="danoz"></div>
+    <div class="sep"></div>
+    <div class="contact">bmeyevi@gmail.com</div>
+  </div>
+</body>
+</html>
