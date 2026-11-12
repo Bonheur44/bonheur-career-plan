@@ -15,6 +15,11 @@
   (« Bonheur Zacharie MEYEVI » dans les présentations complètes : CV, à-propos).
 - **État civil** : né le 05/11/2003 à Bopa (Bénin), nationalité béninoise (acte de
   naissance, certificat de nationalité et CIP dans `documents/administratifs/`).
+  NPI : 2676753879.
+- **Passeport** : n° PP0158578, délivré le 14/09/2026 par la Direction des Étrangers et
+  de l'Immigration (Cotonou), valable jusqu'au 13/09/2032. Obtenu depuis (les dossiers
+  rédigés avant le 14/09/2026 le disaient « en cours d'obtention » : à mettre à jour avant tout
+  dépôt ; le dossier Mastercard a été corrigé le 12/11/2026, H17 = Oui). Fichier : `documents/administratifs/Passeport_Bonheur_MEYEVI.pdf`.
 - **Localisation** : Cotonou (Agla Hlazounto), Bénin.
 - **Signature manuscrite** : `documents/signature-bonheur-meyevi.png` (trait noir, fond
   transparent, générée par `site/scripts/signature.mjs` depuis
@@ -42,7 +47,7 @@
 
 - **Français** : langue maternelle, courant.
 - **Anglais** : **niveau A2 certifié** (test de positionnement TBC, 2026).
-  Formation de 3 mois démarrée le **7 septembre 2026** à TBC.
+  Formation de 3 mois démarrée le **2 novembre 2026** à TBC (initialement prévue le 7 septembre), en cours.
   Règle éditoriale : formulation minimale et factuelle - ne pas créer
   d'attente supérieure au niveau réel.
 
@@ -52,9 +57,9 @@
   Prestataire de services de juillet 2025 au 11 janvier 2026, puis salarié en
   CDD depuis le 12 janvier 2026, **fin de contrat en décembre 2026** (confirmé par Bonheur le
   21/09/2026), **sans garantie de renouvellement** ; il cherche des alternatives d'ici là (d'où
-  les candidatures d'emploi). Écrire « décembre 2026 » partout. Les dossiers déposés avant cette
-  correction (Mastercard, 09/2026) disent « janvier 2027 » : ne pas les modifier, expliquer si on
-  le demande.
+  les candidatures d'emploi). Écrire « décembre 2026 » partout (dossier Mastercard corrigé le 12/11/2026, non déposé
+  auparavant). Situation au 12/11/2026 : aucune alternative trouvée ; pistes = candidatures
+  d'emploi et relance du freelance.
   Poste exact : **assistant du chargé de digitalisation** (intitulé interne :
   « Assistant CM Digitalisation »). Développement et maintenance des
   plateformes web (React, Next.js, WordPress), appui aux outils de gestion
@@ -85,7 +90,7 @@
   trois années (L1 14,87 · L2 14,78 · L3 15,37 ; cycle 15,01/20).
   **Mémoire : « Conception et réalisation d'une application web
   de mise en contact des producteurs et consommateurs du secteur agricole »**
-  (soutenu le 08/06/2022, 17/20 ; binôme avec KONOU M. S. Immaculé ; dir. Dr Mêton-Mêton
+  (soutenu le 08/07/2022, 17/20 ; binôme avec KONOU M. S. Immaculé ; dir. Dr Mêton-Mêton
   Atindehoun ; stage à Guerra Tech Hub). Prototype PHP/Bootstrap/JS, UML.
   ⚠️ Jamais déployé - ne pas montrer de captures de l'app : présenter comme
   jalon académique fondateur uniquement.
@@ -100,7 +105,7 @@
   `documents/administratifs/`). Dossier enregistré par la Commission universitaire
   d'Orientation de l'UAC : **code de suivi AJ3O1XMWMO**, à vérifier sur https://cuo.sigan-uac.bj/
   (« Suivre ma demande ») ; statut au 18/09/2026 : « Demande reçue » (étapes : dossier soumis,
-  examen CUCA, examen CUO, décision finale). Résultat d'admission : non publié à ce jour.
+  examen CUCA, examen CUO, décision finale). **Résultat : ADMIS, avis CUO FAVORABLE publié le 10/11/2026** (session Rattrapage de juillet 2026, Master 1 Génie logiciel, inscription autorisée). Attestation : `documents/administratifs/attestation-admission-cuo-AJ3O1XMWMO.pdf` (émise le 12/11/2026, certifiée par Lumière). Inscription en ligne sur https://inscription.sigan-uac.bj/ avec le code de suivi, avant le **15/02/2027**.
   Communiqué officiel de l'IFRI (frais 451 200 FCFA/an) :
   `documents/administratifs/Communique_IFRI_Master_2026-2027.pdf`.
 - **Divers** : agent inscripteur externe, Université de Parakou (01/12/2023 -
@@ -189,8 +194,19 @@ client ; rédaction web, gestion de contenu, animation d'ateliers, veille.
 | Formation SEO : débutant à expert | 9 h | mai 2024 |
 
 + Certificat d'anglais A2 (TBC, attestation du 10/08/2026, grille « A2 Elementary »).
+
+### Coursera (Google Career Certificates)
+
+| Cours | Date | Statut |
+|---|---|---|
+| Foundations: Data, Data, Everywhere (Google, via Coursera) | 13/10/2026 | Obtenu |
+
+1er cours du parcours Google Data Analytics Professional Certificate. Cohérent avec le
+projet professionnel (§12 : systèmes d'information décisionnels, gestion et qualité des
+données). Suite du parcours en cours - compléter ce tableau au fil des cours validés.
+
 **Fichiers PDF** : `documents/certifications/` (4 certificats Udemy + attestation
-d'anglais) ; copies servies par le site dans `site/public/documents/`.
+d'anglais + certificat Coursera) ; copies servies par le site dans `site/public/documents/`.
 
 ## 8. Réalisations - inventaire complet
 
@@ -383,6 +399,11 @@ ouvertes reliant producteurs, financeurs solidaires et marchés (Bénin,
 sous-région) ; long terme - contribuer aux politiques de digitalisation
 agricole ouest-africaines (formulation sobre, sans citer FAO/PAM/PNUD comme
 plan de carrière).
+**Recherche et doctorat** (précisé par Bonheur le 12/11/2026) : il se destine à la recherche et
+compte poursuivre en doctorat après le master, sur la conception de systèmes d'information
+fiables au service des filières agricoles (calendrier et lieu non fixés, ne pas en inventer).
+Il ne faut donc plus écrire que la recherche n'est pas son axe principal. Dans le dossier
+Mastercard (G1, K3, J4), l'étude sur les données ouvertes des filières n'est plus citée.
 
 ### ⚠️ Règle de formulation « continuité »
 La continuité porte sur **la question** (posée en 2022, toujours ouverte), pas
@@ -399,12 +420,12 @@ candidatures, elles, sont ciblées et chacune a son dossier :
 
 | Dossier | Cible | Échéance | État |
 |---|---|---|---|
-| `candidature-mastercard/` | Bourse Fondation Mastercard à l'UAC, master IFRI Génie Logiciel 2026-2027 (formulaire, CV, fiche de parcours, audit, checklist) | Dépôt physique le 14/09/2026 | Dossier complet préparé ; **dépôt effectif à confirmer par Bonheur** |
+| `candidature-mastercard/` | Bourse Fondation Mastercard à l'UAC, master IFRI Génie Logiciel 2026-2027 (formulaire rempli, CV, fiche de parcours, PDF déposé ; documents de travail dans `archive-travail.zip`) | Date limite initiale 14/09/2026, **prolongée au 13/11/2026** ; dépôt **en ligne** (PDF unique) | Aucun dépôt en septembre (admission IFRI pas encore prononcée). Admission obtenue le 10/11/2026 ; dossier refait et déposé en ligne (candidature envoyée, 12/11/2026) |
 | `opportunites/01-bourses-cibles.md` | Bourses de master à l'étranger (UEMOA 2027 = dernière chance d'âge, Senghor, etc.) | Calendrier sept. 2026 à août 2027 | Veille ; choix UAC vs étranger non tranché |
 | `candidature-unv/` | Profil UNV (Volontaires des Nations Unies), missions Associate / Specialist | Continu | Profil optimisé rédigé le 11/09/2026, saisie à faire |
 | `linkedin/` | Profil LinkedIn business (prestations), sans mention du master | Continu | Textes et visuels prêts (14/09/2026), saisie à faire |
 | `candidature-asin/` | **Emploi** : Développeur(se) Junior(e), ASIN (CDD 2 ans, Cotonou) | Dépôt en ligne avant le **18/09/2026, 20h** | CV visuel, lettre signée et pièces prêts dans `candidature-asin/depot/` |
-| `candidature-djena/` | Bourse Djéna (diaspora togolaise) : 1 000 €/an pendant les 2 ans de master au Bénin, mentorat, entrepreneuriat | Dépôt en ligne avant le **30/09/2026** | Note de synthèse, CV 1 page, formulaire et pièces prêts dans `candidature-djena/depot/` ; **décision du 17/09/2026 : le master est prioritaire sur l'emploi ASIN** |
+| `candidature-djena/` | Bourse Djéna (diaspora togolaise) : 1 000 €/an pendant les 2 ans de master au Bénin, mentorat, entrepreneuriat | Dépôt en ligne avant le **30/09/2026** | Note de synthèse, CV 1 page, formulaire et pièces prêts dans `candidature-djena/depot/` ; **décision du 25/09/2026 : Bonheur garde son emploi (télétravail visé, salaire éventuellement réduit) pendant le master, la bourse compense la perte de revenu et couvre le coût du master** |
 | `opportunites/02-organisations-internationales.md` | Veille ONU/agences, BAD, CEDEAO, OIF, Banque mondiale : volontariat rémunéré, emplois/stages, concours, marchés | Continu | Recherche du 18/09/2026 ; priorité UNV national + VIF (francophones, sans barrière d'anglais) |
 
 Motivation des candidatures d'emploi : fin du contrat SENS annoncée pour décembre 2026

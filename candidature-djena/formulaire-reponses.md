@@ -21,13 +21,13 @@
 
 | Champ | Réponse |
 |---|---|
-| Domaine d'étude | Informatique |
-| Niveau actuel | Licence (Bac+3) |
-| Établissement fréquenté | Institut Universitaire de Technologie (IUT), Université de Parakou |
-| Établissement souhaité pour le master | Institut de Formation et de Recherche en Informatique (IFRI), Université d'Abomey-Calavi, Master Génie Logiciel. Dossier d'admission déposé en août 2026, enregistré par la Commission universitaire d'Orientation de l'UAC (code de suivi AJ3O1XMWMO, vérifiable sur https://cuo.sigan-uac.bj/), décision attendue. |
-| Moyenne | 15,01 |
-| Date du dernier diplôme | Juin 2022 |
-| Rang de classe | Laisser vide |
+| Domaine d'étude | Informatique de Gestion |
+| Niveau d'étude actuel | Licence (Bac+3) — choisir l'option la plus proche dans la liste déroulante |
+| Établissement actuellement fréquenté | Aucun : diplômé en 2022, actuellement en activité professionnelle |
+| Établissement souhaité pour le master | Institut de Formation et de Recherche en Informatique (IFRI), Université d'Abomey-Calavi (Master Génie Logiciel) |
+| Moyenne obtenue dans l'année | 15,37/20 (Licence 3, 2021-2022 : dernière année validée ; mention Bien) |
+| Date d'obtention du dernier diplôme | 08/07/2022 |
+| Rang dans la classe (facultatif) | Laisser vide : aucun rang chiffré disponible pour la licence |
 
 ### Distinctions académiques (86 mots, max 100)
 
@@ -41,12 +41,12 @@
 
 | Champ | Réponse |
 |---|---|
-| Aide actuelle | Travail |
+| Aide financière actuelle | Travail étudiant (seule option se rapprochant d'un revenu du travail, parmi Aucune / Autre bourse / Soutien familial / Travail étudiant) |
 | Documents frais de scolarité | `depot/Frais_scolarite_master_MEYEVI_Bonheur.pdf` |
 
-### Description du besoin financier (99 mots, max 100)
+### Description du besoin financier (100 mots, max 100)
 
-> Salarié d'une société coopérative (200 000 FCFA nets par mois) en contrat à durée déterminée qui s'achève en décembre 2026, sans garantie de renouvellement ; revenus indépendants faibles et irréguliers. Je vis seul à Cotonou, entièrement à ma charge, je soutiens chaque mois ma famille à Parakou (20 000 à 30 000 FCFA) et je rembourse des dettes. Le master coûte 451 200 FCFA par an, soit plus de deux mois de salaire ; j'ai déjà signé seul l'engagement de prise en charge. Sans bourse, je devrai cumuler emploi à plein temps et études, au détriment de la formation.
+> Salarié d'une société coopérative (200 000 FCFA nets par mois), mon contrat à durée déterminée s'achève en décembre 2026, sans garantie de renouvellement. Ce salaire est ma seule source stable : je compte le garder pendant le master, si possible en télétravail, quitte à une baisse de rémunération. Le master coûte 451 200 FCFA par an, soit plus de deux mois de salaire ; j'ai signé seul l'engagement de prise en charge. Je soutiens aussi ma famille à Parakou (20 000 à 30 000 FCFA) et rembourse des dettes personnelles. Sans bourse, cette baisse de revenu ne serait pas soutenable.
 
 ## Étape 4 : Note de synthèse et pièces
 

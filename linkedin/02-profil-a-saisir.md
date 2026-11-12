@@ -14,6 +14,10 @@
 > aucun chiffre SENS présenté comme personnel ; anglais A2 factuel ; pas de nombre de
 > recommandations ; pas de « 5 applications » ; aucun tiret long ; vouvoiement ; ni « expert »,
 > ni baseline « Le Samouraï du Web ».
+> **Orientation lecteur (24/09/2026)** : chaque section s'ouvre sur la situation de celui qui
+> lit, pas sur le parcours de Bonheur. Les problèmes viennent avant les réponses, les réponses
+> avant les preuves. Contrainte tenue en même temps : nommer un problème n'est pas proposer une
+> prestation, donc aucune phrase n'annonce de disponibilité, de tarif ni de devis.
 > Limites LinkedIn vérifiées dans le texte : titre 220 caractères, Infos 2 600, description
 > d'expérience 2 000, Services 500.
 
@@ -43,7 +47,7 @@
 
 Contenu de la bannière (identique dans les deux versions) :
 - Étiquette : « > Développeur web & mobile · Cotonou, Bénin »
-- Titre : « Applications web et mobiles, plateformes de données, sites institutionnels. »
+- Titre : « Vos données de terrain, exploitables. Vos outils, vraiment utilisés. »
 - Preuve : « 4 ans · 20+ projets livrés au Bénin et en France · Next.js · Laravel · Flutter · WordPress »
 - Signature : wordmark danoz sans baseline · bmeyevi@gmail.com
 - Zone basse gauche laissée vide : c'est là que LinkedIn superpose la photo de profil.
@@ -61,9 +65,9 @@ régénérer.
 ## 2. En-tête
 
 - **Prénom / Nom** : Bonheur / MEYEVI
-- **Titre** (199 caractères) :
+- **Titre** (188 caractères) :
 
-> Développeur web et mobile · Assistant digitalisation, SENS Bénin · Applications sur mesure, plateformes de données et sites institutionnels · Next.js, Laravel, Flutter, WordPress · 20+ projets livrés
+> Développeur web et mobile · Des données de terrain exploitables, des outils que vos équipes utilisent vraiment · Laravel, Next.js, Flutter, WordPress · Assistant digitalisation, SENS Bénin
 
 - **Localisation** : Cotonou, Littoral, Bénin
 - **Secteur** : Services et conseil en informatique
@@ -75,32 +79,37 @@ régénérer.
 - **Bouton personnalisé** (si disponible) : « Envoyer un e-mail » ou lien vers le site quand il
   existera
 
-## 3. Section « Infos » (1 982 caractères)
+## 3. Section « Infos » (2 590 caractères)
 
-> Je construis des applications, des plateformes et des sites qui fonctionnent, se maintiennent et que les équipes utilisent vraiment. Quatre ans de pratique, au Bénin et en France : une vingtaine de projets livrés, du cadrage des besoins à la mise en ligne.
+> Vos enquêtes reviennent sur papier, et quelqu'un doit tout ressaisir. Votre questionnaire attend un fichier XLSForm que personne dans l'équipe ne sait écrire. Votre site ne peut plus bouger sans rappeler un prestataire. Votre application est installée, mais vos agents sont retournés au cahier.
 >
-> Ce que je sais construire :
-> - Applications web et mobiles sur mesure (Laravel, Next.js, Flutter) : APIs REST, bases de données, paiement mobile money (FedaPay, KKiaPay, Moneroo) et Stripe.
-> - Plateformes et outils de données : formulaires d'enquête, collecte terrain, outils de suivi, écosystème KoboToolbox.
-> - Sites institutionnels et vitrines sous WordPress ou Next.js : création, refonte, intégration de maquettes, SEO.
-> - Audits de sites et de landing pages, avec des recommandations écrites, priorisées et applicables sans moi.
+> Ce sont ces situations que je traite depuis quatre ans, au Bénin et en France : une vingtaine de projets livrés, du cadrage des besoins à la mise en ligne.
 >
-> Quelques réalisations vérifiables :
-> - Form2Kobo (form2kobo.com) : plateforme conçue et développée de bout en bout pour le compte d'un agronome. Elle convertit un questionnaire d'enquête en fichier XLSForm prêt pour KoboToolbox, avec achat de crédits par mobile money.
-> - Salon Monétique National (smn.bj) : site officiel d'un événement institutionnel de la finance numérique béninoise.
+> Les problèmes sur lesquels je travaille, et ce que j'y oppose :
+> - Des données éparpillées entre papier, tableurs et messageries : une application qui collecte à la source, tient sur le terrain et rend les données exploitables (Laravel, Flutter, MySQL).
+> - Un questionnaire bloqué par le format XLSForm de KoboToolbox : Form2Kobo, qui le convertit en fichier prêt à importer, sans compétence technique.
+> - Des clients qui ne peuvent pas payer depuis le Bénin : mobile money (FedaPay, KKiaPay, Moneroo) et Stripe intégrés.
+> - Une échéance institutionnelle qui ne bougera pas : un site conçu, rempli et mis en ligne pour la date (WordPress, Next.js).
+> - Un site dont personne ne sait dire ce qui ne va pas : un audit écrit et priorisé, que votre équipe applique sans moi.
+> - Un outil que plus personne n'ouvre : ergonomie revue, qualité des données saisies, formation des utilisateurs.
+>
+> Ce que cela a donné :
+> - Form2Kobo (form2kobo.com) : conçue et développée de bout en bout pour le compte d'un agronome. Un questionnaire y devient un fichier XLSForm prêt pour KoboToolbox, avec achat de crédits par mobile money.
+> - Salon Monétique National (smn.bj) : le site officiel d'un événement institutionnel de la finance numérique béninoise, en ligne pour sa date.
 > - Applications mobiles publiées sur le Play Store ; sites de chercheurs, de consultants et d'organismes de formation ; refontes livrées avec une copywriter, un designer et une consultante SEO.
 >
-> Aujourd'hui, je suis assistant digitalisation chez SENS Bénin, société coopérative qui structure des chaînes de valeur agricoles inclusives : plateformes web, appui aux outils de gestion internes, automatisation. Ce terrain m'apprend à concevoir pour des utilisateurs qui ne sont pas techniciens.
+> Je suis aujourd'hui assistant digitalisation chez SENS Bénin, coopérative qui structure des chaînes de valeur agricoles inclusives : plateformes web et outils de gestion internes, devant des utilisateurs qui ne sont pas techniciens. C'est là que se joue l'écart entre un outil livré et un outil utilisé.
 >
-> Ma façon de travailler : un cadrage écrit avant la première ligne de code, des délais tenus, des choix techniques expliqués. Les recommandations publiques de mes clients et collaborateurs, plus bas sur ce profil, en disent plus long que moi.
+> Ma façon de travailler : un cadrage écrit avant la première ligne de code, pour que personne ne découvre le périmètre à la livraison ; des délais tenus ; des choix techniques expliqués sans jargon. Les recommandations publiques de mes clients et collaborateurs, plus bas sur ce profil, en disent plus long que moi.
 >
 > Pour échanger :
 > Email : bmeyevi@gmail.com
 > WhatsApp : +229 01 96 15 83 12
 
-Les trois premières lignes (avant « voir plus ») portent ce qu'il construit, la durée et le
-volume livré : c'est ce qui s'affiche sans clic. Aucune phrase n'annonce une disponibilité ni une
-offre : les réalisations et les coordonnées suffisent à un lecteur qui veut prendre contact.
+Les trois premières lignes (avant « voir plus ») ne parlent que du lecteur : quatre situations
+qu'il reconnaît. Le « je » n'arrive qu'au paragraphe suivant, et les preuves viennent après les
+problèmes. Aucune phrase n'annonce une disponibilité ni une offre : les réalisations et les
+coordonnées suffisent à qui veut prendre contact.
 
 ## 4. Expériences
 
@@ -117,7 +126,7 @@ Aucune mention « en cours » ou « en production » nulle part.
 - **Intitulé** : Assistant digitalisation
 - **Entreprise** : SENS Bénin · **Type** : CDD (contrat) · **Dates** : juillet 2025 - aujourd'hui ·
   **Lieu** : Cotonou, Bénin · sur site
-- **Description** (940 caractères) :
+- **Description** (967 caractères) :
 
 > Assistant du chargé de mission de digitalisation, d'abord comme prestataire de services (juillet 2025 à janvier 2026), puis en contrat à durée déterminée depuis janvier 2026. SENS Bénin est une société coopérative d'entrepreneuriat social qui accompagne des petites entreprises rurales et structure des chaînes de valeur agricoles inclusives.
 >
@@ -125,7 +134,7 @@ Aucune mention « en cours » ou « en production » nulle part.
 > - Appui à la conception et à l'évolution des outils de gestion internes qui servent au suivi des activités d'accompagnement ; amélioration de l'ergonomie et de la qualité des données saisies.
 > - Automatisation de flux de travail internes ; suivi des performances et de la sécurité applicative.
 >
-> Ce poste me place au contact quotidien des besoins d'outils de données d'une organisation de développement rural et de ses utilisateurs non techniciens.
+> Ce que ce poste m'apprend chaque jour : dans une organisation de terrain, un outil n'existe que si des personnes non techniciennes l'ouvrent, le remplissent juste et y reviennent.
 
 - **Compétences associées** : React · Next.js · WordPress · Automatisation
 
@@ -134,14 +143,15 @@ Aucune mention « en cours » ou « en production » nulle part.
 - **Intitulé** : Développeur web et mobile indépendant
 - **Entreprise** : danoz (ou « Travailleur indépendant » si aucune page n'est créée)
 - **Type** : Indépendant · **Dates** : avril 2024 - juin 2025 · **Lieu** : Parakou puis Cotonou, Bénin · à distance
-- **Description** (1 120 caractères) :
+- **Description** (1 262 caractères) :
 
-> Une vingtaine de projets livrés pour des clients au Bénin et en France (institutions, chercheurs, entreprises, indépendants), du cadrage des besoins à la mise en ligne.
+> Une vingtaine de projets livrés pour des clients au Bénin et en France (institutions, chercheurs, entreprises, indépendants), du cadrage des besoins à la mise en ligne. Ce qu'ils avaient à résoudre :
 >
-> - Applications web et mobiles sur mesure (Laravel, Next.js, Flutter) : plateformes de données, application de collecte de données terrain (backend et mobile), conception d'une application de gestion de programmes de dépistage.
-> - Sites institutionnels : site du colloque scientifique international CINEEF (structuration des contenus, conception des vues, mise en ligne) ; site du salon SENIA, avec un social media manager et un graphiste.
-> - Sites vitrines, refontes et intégrations de maquettes (WordPress, Next.js) avec une copywriter, un designer et une consultante SEO ; audits de sites et de landing pages avec recommandations écrites.
-> - Intégrations d'API REST et de paiement mobile money (FedaPay, KKiaPay, Moneroo) et Stripe ; MySQL, Firebase, Supabase ; SEO et suivi de performance.
+> - Collecter des données de terrain sans ressaisie : backend et application mobile (Laravel, Flutter), déployés en première phase ; conception d'une application de gestion de programmes de dépistage.
+> - Tenir une échéance qui ne bouge pas : site du colloque scientifique international CINEEF (structuration des contenus, conception des vues, mise en ligne) ; site du salon SENIA, avec un social media manager et un graphiste.
+> - Donner une vitrine crédible à une activité : sites vitrines, refontes et intégrations de maquettes (WordPress, Next.js), avec une copywriter, un designer et une consultante SEO.
+> - Savoir enfin ce qui bloque sur un site existant : audits de sites et de landing pages, avec des recommandations écrites et priorisées.
+> - Faire circuler données et paiements : API REST, mobile money (FedaPay, KKiaPay, Moneroo) et Stripe ; MySQL, Firebase, Supabase ; SEO et suivi de performance.
 >
 > Résultat : recommandations publiques de clients et de collaborateurs sur ce profil ; un site livré en deux jours pour un client sous forte contrainte de délai.
 
@@ -153,9 +163,9 @@ Aucune mention « en cours » ou « en production » nulle part.
 - **Intitulé** : Développeur mobile (lead en binôme)
 - **Entreprise** : Light Innovation · **Type** : Temps plein · **Dates** : février 2023 - mars 2024 ·
   **Lieu** : Parakou, Bénin
-- **Description** (974 caractères) :
+- **Description** (1 094 caractères) :
 
-> Entreprise de services numériques de Parakou. Développement et publication d'applications Flutter multiplateformes, comme responsable en binôme d'une petite équipe mobile.
+> Des médias régionaux et un salon professionnel avaient besoin d'atteindre leur public là où il est : sur son téléphone. Entreprise de services numériques de Parakou. Développement et publication d'applications Flutter multiplateformes, comme responsable en binôme d'une petite équipe mobile.
 >
 > - Application de la Foire Internationale de Parakou (réservation de stands, informations pratiques, partenaires) ; applications des médias Daabaaru et Sutiidera (articles, vidéos, directs télévisés et radio) ; applications e-Event et Afrozigo, publiées sur le Play Store.
 > - Intégration d'API REST fournies par le backend (dont l'API YouTube) ; correction de bugs ; maintenance applicative ; formation des utilisateurs aux nouvelles fonctionnalités.
@@ -208,10 +218,10 @@ n'accepte pas de vignette personnalisée sur un lien, d'où le choix de l'image.
 
 | # | Carte | Titre | Description |
 |---|---|---|---|
-| 1 | `visuels/selection-01-form2kobo-1200x627.png` | Form2Kobo : préparer un questionnaire KoboToolbox sans écrire de XLSForm | Conçu et développé de bout en bout pour le compte d'un agronome. Laravel, Next.js, paiement mobile money. form2kobo.com |
-| 2 | `visuels/selection-02-smn-1200x627.png` | Le site officiel du Salon Monétique National | Création sous WordPress pour un événement institutionnel de la finance numérique béninoise. smn.bj |
-| 3 | `visuels/selection-03-e-event-1200x627.png` | e-Event : le compagnon mobile d'une plateforme événementielle | Développement mobile chez Light Innovation, Flutter. Publiée sur le Play Store (com.light.mobile_event). |
-| 4 | `visuels/selection-04-alladatin-1200x627.png` | Refonte complète du site d'un professeur d'université | Site du Dr Judicaël Alladatin (Université de Montréal), refonte sous WordPress. alladatin.com |
+| 1 | `visuels/selection-01-form2kobo-1200x627.png` | Votre questionnaire prêt pour KoboToolbox, sans écrire une ligne de XLSForm | Le format XLSForm bloque les enquêteurs qui ne sont pas techniciens. Form2Kobo convertit le questionnaire en fichier prêt à importer, crédits payables par mobile money. Conçu et développé de bout en bout pour le compte d'un agronome. form2kobo.com |
+| 2 | `visuels/selection-02-smn-1200x627.png` | Un événement institutionnel en ligne avant sa date | Programme, partenaires, inscriptions et réservation de stands : le site officiel du Salon Monétique National, sous WordPress. smn.bj |
+| 3 | `visuels/selection-03-e-event-1200x627.png` | Un événement qui tient dans la poche de son public | Compagnon mobile d'une plateforme événementielle, publié sur le Play Store. Flutter, chez Light Innovation. |
+| 4 | `visuels/selection-04-alladatin-1200x627.png` | Des travaux de recherche enfin lisibles en ligne | Publications scientifiques, actualités et présentation réunies dans un site entièrement refait pour le Dr Judicaël Alladatin (Université de Montréal), sous WordPress. alladatin.com |
 
 Aucune carte ne porte de date ni de mention « en ligne » : elles présentent des réalisations,
 pas une activité en cours. Risque résiduel assumé : Form2Kobo et smn.bj datent de la période SENS ;
@@ -238,7 +248,7 @@ done
 - **Diplôme** : Licence Professionnelle · **Domaine** : Informatique de Gestion · **Dates** : 2019 - 2022
 - **Description** :
 
-> Mention Bien. Mémoire de fin de formation (juin 2022) : conception et réalisation d'une application web de mise en contact des producteurs et consommateurs du secteur agricole (UML, prototype PHP).
+> Mention Bien. Mémoire de fin de formation (juillet 2022) : conception et réalisation d'une application web de mise en contact des producteurs et consommateurs du secteur agricole (UML, prototype PHP).
 
 ## 9. Licences et certifications
 
@@ -285,6 +295,8 @@ période SENS. Le texte est conservé dans l'historique du dossier pour la fin d
 
 - [ ] Aucun tiret long dans les textes collés.
 - [ ] Aucune mention de master, de bourse ou de candidature.
+- [ ] Chaque bloc s'ouvre sur la situation du lecteur, jamais sur « je » : titre, Infos, cartes
+      de la Sélection, première ligne de chaque expérience.
 - [ ] Aucune mention d'activité parallèle au poste SENS : pas de « en parallèle », « poursuivie »,
       « en cours », « en production », « j'accepte », « devis », « prestations » ; entrée
       indépendante close en juin 2025 ; page Services absente ; « Ouvert à » désactivé.

@@ -17,8 +17,8 @@ const cartes = [
   {
     fichier: "selection-01-form2kobo",
     etiquette: "Application web · En ligne",
-    titre: "Préparer un questionnaire KoboToolbox sans écrire de XLSForm",
-    role: "Form2Kobo : conception et développement complets, pour le compte d'un agronome.",
+    titre: "Votre questionnaire prêt pour KoboToolbox, sans écrire de XLSForm",
+    role: "Le format XLSForm bloque les enquêteurs non techniciens. Form2Kobo convertit le questionnaire en fichier prêt à importer.",
     stack: ["Laravel", "Next.js", "MySQL", "Mobile money"],
     url: "form2kobo.com",
     capture: `${PROJETS}/form2kobo-desktop.jpg`,
@@ -27,8 +27,8 @@ const cartes = [
   {
     fichier: "selection-02-smn",
     etiquette: "Site institutionnel · En ligne",
-    titre: "Le site officiel du Salon Monétique National",
-    role: "Création sous WordPress pour un événement institutionnel de la finance numérique béninoise.",
+    titre: "Un événement institutionnel en ligne avant sa date",
+    role: "Programme, partenaires, inscriptions et réservation de stands : le site officiel du Salon Monétique National.",
     stack: ["WordPress", "SEO"],
     url: "smn.bj",
     capture: `${PROJETS}/smn-desktop.jpg`,
@@ -37,8 +37,8 @@ const cartes = [
   {
     fichier: "selection-03-e-event",
     etiquette: "Application mobile · Play Store",
-    titre: "e-Event : le compagnon mobile d'une plateforme événementielle",
-    role: "Développement mobile chez Light Innovation, application publiée sur le Play Store.",
+    titre: "Un événement qui tient dans la poche de son public",
+    role: "Compagnon mobile d'une plateforme événementielle, publié sur le Play Store.",
     stack: ["Flutter", "API REST"],
     url: "Play Store",
     capture: `${PROJETS}/e-event-mobile-2.webp`,
@@ -47,8 +47,8 @@ const cartes = [
   {
     fichier: "selection-04-alladatin",
     etiquette: "Site vitrine · En ligne",
-    titre: "Refonte complète du site d'un professeur d'université",
-    role: "Site du Dr Judicaël Alladatin, gouvernance des systèmes éducatifs (Université de Montréal).",
+    titre: "Des travaux de recherche enfin lisibles en ligne",
+    role: "Publications, actualités et présentation réunies dans un site entièrement refait pour le Dr Judicaël Alladatin.",
     stack: ["WordPress"],
     url: "alladatin.com",
     capture: `${PROJETS}/alladatin-desktop.png`,

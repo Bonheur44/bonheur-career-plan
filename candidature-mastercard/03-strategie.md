@@ -25,7 +25,7 @@
 5. **Ce que j'en ferai (G1, K3, J4)** : industrie (SENS), entrepreneuriat (solution de suivi des
    données de chaîne de valeur, balisée par une étude déjà menée), transmission structurée vers les
    jeunes de milieux modestes.
-6. **Pourquoi la bourse change tout (H13, K5)** : CDD expirant en janvier 2027, master de
+6. **Pourquoi la bourse change tout (H13, K5)** : CDD expirant en décembre 2026, master de
    451 200 FCFA/an autofinancé (engagement signé), soutien familial mensuel maintenu. Sans bourse :
    cumul emploi + études qui menace l'excellence visée ; avec : un investissement à faible risque.
 

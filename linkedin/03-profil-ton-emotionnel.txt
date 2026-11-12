@@ -1,0 +1,160 @@
+====================================================
+TITRE
+====================================================
+
+Développeur web & mobile 📍 Bénin ➤ Vos données de terrain, enfin exploitables. Vos outils, enfin utilisés. | Assistant digitalisation, SENS Bénin
+
+
+====================================================
+INFOS
+====================================================
+
+Vendredi soir. Une enquêtrice rentre du terrain avec 40 questionnaires remplis à la main. Lundi, il faut les avoir dans KoboToolbox. Le format qu'il demande, XLSForm, personne dans l'équipe ne sait l'écrire. Elle passe son week-end à tout ressaisir, ligne par ligne, en espérant ne pas se tromper.
+
+C'est exactement ce genre de week-end que je passe ma carrière à éviter à des équipes.
+
+Depuis 4 ans, au Bénin et en France, je construis des outils numériques pensés pour les gens qui doivent vraiment s'en servir, pas pour impressionner un comité. 20+ projets livrés, du premier échange jusqu'à la mise en ligne.
+
+🔧 Ce que je répare, au-delà de ce cas :
+➤ Une échéance institutionnelle qui ne bouge pas → un site prêt à temps, sans mauvaise surprise de dernière minute.
+➤ Un site qu'on n'ose plus toucher de peur de tout casser → un audit clair, écrit, que votre équipe applique sans moi.
+➤ Une application installée que plus personne n'ouvre → une ergonomie repensée pour ceux qui l'utilisent tous les jours.
+
+✅ Ce que ça a donné :
+📌 Form2Kobo (form2kobo.com) : conçu et développé pour le compte d'un agronome. Le questionnaire du vendredi soir devient un fichier prêt en quelques clics.
+📌 Salon Monétique National (smn.bj) : le site d'un événement institutionnel, en ligne le jour dit, pas la veille.
+📌 Des applications sur le Play Store, des sites pour des chercheurs et des organismes de formation.
+
+Aujourd'hui, je suis assistant digitalisation chez SENS Bénin, une coopérative qui structure les chaînes de valeur agricoles. Chaque jour, la même leçon : un outil n'existe vraiment que le jour où quelqu'un, sur le terrain, l'ouvre sans qu'on le lui demande.
+
+💬 Ma méthode : je cadre par écrit avant la première ligne de code. Je tiens mes délais. J'explique mes choix sans jargon.
+
+Les recommandations plus bas, sur ce profil, en disent plus long que moi.
+
+📩 Pour échanger :
+Email : bmeyevi@gmail.com
+WhatsApp : +229 01 96 15 83 12
+
+
+====================================================
+EXPÉRIENCE 1 - SENS Bénin (poste actuel)
+====================================================
+
+🏢 Assistant digitalisation - SENS Bénin
+📅 Juillet 2025 → Aujourd'hui  |  📍 Cotonou, Bénin
+
+D'abord prestataire de services, puis salarié en CDD depuis janvier 2026, dans la même fonction : assistant du chargé de mission de digitalisation.
+
+SENS Bénin est une coopérative qui accompagne des entreprises rurales et structure des chaînes de valeur agricoles inclusives.
+
+Ce que je fais au quotidien :
+✅ Je développe et maintiens les plateformes web de la coopérative (React, Next.js, WordPress).
+✅ J'améliore les outils de gestion internes et la qualité des données saisies.
+✅ J'automatise des tâches répétitives, je surveille la sécurité.
+
+Ce que ce poste m'apprend chaque jour : un outil ne sert à rien tant qu'une personne, sur le terrain, ne l'a pas vraiment adopté.
+
+
+====================================================
+EXPÉRIENCE 2 - Indépendant (danoz)
+====================================================
+
+💻 Développeur web & mobile indépendant - danoz
+📅 Avril 2024 → Juin 2025  |  📍 Parakou puis Cotonou, Bénin
+
+20 projets. Des clients au Bénin et en France. Une question à chaque fois : qu'est-ce qui, dans votre quotidien, coince vraiment ?
+
+➤ Des données de terrain qui n'arrivaient nulle part → une application de collecte, backend et mobile.
+➤ Une échéance institutionnelle non négociable → un site prêt à temps (CINEEF, SENIA).
+➤ Une vitrine à rendre crédible → sites vitrines et refontes, avec une copywriter, un designer, une consultante SEO.
+➤ Un site muet sur ses failles → des audits écrits, priorisés, applicables sans moi.
+
+Résultat : des recommandations publiques de clients et de collaborateurs, visibles plus bas sur ce profil. Et un site livré en deux jours, pour un client sous une pression énorme.
+
+
+====================================================
+EXPÉRIENCE 3 - Light Innovation (développeur, puis lead)
+====================================================
+
+📱 Développeur mobile, puis lead (en binôme) - Light Innovation
+📅 Février 2023 → Mars 2024  |  📍 Parakou, Bénin
+
+Des médias régionaux et un salon professionnel voulaient toucher leur public là où il est vraiment : sur son téléphone.
+
+✅ Applications Flutter publiées sur le Play Store (Foire de Parakou, Daabaaru, Sutiidera, e-Event, Afrozigo).
+✅ Formation des utilisateurs, cours de programmation donnés à de futurs développeurs.
+✅ Encadrement de plus de 15 stagiaires.
+
+Résultat : en moins de dix-huit mois, je suis passé de stagiaire à responsable de l'équipe mobile.
+
+
+====================================================
+EXPÉRIENCE 4 - Light Innovation (stage)
+====================================================
+
+🎓 Stagiaire développeur mobile - Light Innovation
+📅 Août 2022 → Janvier 2023  |  📍 Parakou, Bénin
+
+Mes débuts sur Flutter : intégration d'interfaces, correction de bugs, premiers tests. Un hackathon interne (Code4Shine) pour apprendre vite. Le stage s'est transformé en poste, cinq mois plus tard.
+
+
+====================================================
+BÉNÉVOLAT
+====================================================
+
+🎓 Animateur bénévole de travaux dirigés - Association des étudiants de l'IUT de Parakou
+📅 Pendant le cursus 2019 → 2022
+
+Une centaine d'étudiants, des séances à préparer, des notions à rendre claires. Le tout premier endroit où j'ai appris à transmettre, avant de devenir formateur puis membre de jury de soutenance (Ecole229, avril 2024).
+
+
+====================================================
+FORMATION
+====================================================
+
+🎓 Institut Universitaire de Technologie (IUT), Université de Parakou
+Licence Professionnelle, Informatique de Gestion | 2019 → 2022
+
+Mention Bien. Mémoire de fin de formation (juin 2022) : une application web pour mettre en contact producteurs et consommateurs du secteur agricole.
+
+
+====================================================
+COMPÉTENCES
+====================================================
+
+1. Next.js
+2. Laravel
+3. Flutter
+4. WordPress
+5. API REST
+
+Puis : React, PHP, Dart, MySQL, KoboToolbox / XLSForm, paiement mobile money, SEO, Git, cadrage des besoins, formation et encadrement.
+
+
+====================================================
+LANGUES
+====================================================
+
+🗣️ Français : Langue natale
+🗣️ Anglais : Notions (A2 certifié)
+
+
+====================================================
+SÉLECTION
+====================================================
+
+1) Form2Kobo
+Titre : Le fichier XLSForm que personne ne savait écrire ✅
+Légende : Conçu pour le compte d'un agronome. Un questionnaire devient un fichier prêt pour KoboToolbox, en quelques clics. form2kobo.com
+
+2) Salon Monétique National
+Titre : Un événement institutionnel, en ligne avant l'heure ⏱️
+Légende : Programme, partenaires, inscriptions : le site officiel du Salon Monétique National. smn.bj
+
+3) e-Event
+Titre : Un événement dans la poche de son public 📱
+Légende : Application mobile publiée sur le Play Store, développée chez Light Innovation.
+
+4) alladatin.com
+Titre : Des années de recherche, enfin lisibles 📚
+Légende : Site entièrement refait pour un professeur d'université (Université de Montréal).

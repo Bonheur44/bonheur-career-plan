@@ -9,7 +9,7 @@
 
 ### Le fil rouge découvert (colonne vertébrale du site)
 
-Le mémoire de licence (juin 2022) - *« Conception et réalisation d'une application web de
+Le mémoire de licence (juillet 2022) - *« Conception et réalisation d'une application web de
 mise en contact des producteurs et consommateurs du secteur agricole »* - prouve que la
 vision AgriTech **précède** l'emploi chez SENS. La trajectoire devient une ligne droite :
 
